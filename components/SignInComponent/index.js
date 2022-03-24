@@ -110,6 +110,7 @@ const SignInPage = () => {
     <div className='w-full h-full'>
       <Head>
         <title>Entre no Facebook</title>
+        <link rel='icon' href='/favicon.ico' />
       </Head>
       <div className='w-full'>
         <div className='w-full bg-gradient-to-b from-blue-400 to-blue-500 pb-8 xl:h-[40vh] xl:pb-0'>

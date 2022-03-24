@@ -141,6 +141,7 @@ const HomePage = () => {
                       width={48}
                       height={48}
                       layout='fixed'
+                      alt='Facebook'
                     />
                   </button>
                 </div>
@@ -182,6 +183,7 @@ const HomePage = () => {
                       layout='fixed'
                       objectFit='cover'
                       className='rounded-full'
+                      alt='Imagem de perfil de usuário'
                     />
                   </div>
                   <div className='mt-3 text-center'>
@@ -198,6 +200,7 @@ const HomePage = () => {
                       layout='fixed'
                       objectFit='cover'
                       className='rounded-full'
+                      alt='Imagem de perfil de usuário'
                     />
                   </div>
                   <div className='mt-3 text-center'>

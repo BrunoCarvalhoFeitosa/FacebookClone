@@ -123,6 +123,7 @@ const SignInPage = () => {
                       width={48}
                       height={48}
                       layout='fixed'
+                      alt='Facebook'
                     />
                   </button>
                 </div>

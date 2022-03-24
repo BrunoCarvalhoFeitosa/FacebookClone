@@ -47,6 +47,7 @@ const Contacts = () => {
                 <img
                   src={contact?.imageProfile}
                   className='w-[48px] h-[48px] rounded-full object-cover object-top'
+                  alt={contact?.name}
                 />
                 <div className='absolute right-0 bottom-0 w-[14px] h-[14px] rounded-full bg-green-600 animate-ping' />
               </div>

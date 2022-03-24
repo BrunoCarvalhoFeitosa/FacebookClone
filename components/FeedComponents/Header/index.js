@@ -49,6 +49,7 @@ const Header = ({
               width={48}
               height={48}
               layout='fixed'
+              alt='Facebook'
             />
           </button>
         </div>

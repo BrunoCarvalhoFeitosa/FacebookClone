@@ -95,7 +95,7 @@ const Header = ({
                       src={userAuthenticatedInfo[0]?.imageProfile}
                       alt={userAuthenticatedInfo[0]?.name}
                       title={userAuthenticatedInfo[0]?.name}
-                      className='w-full h-[100px] object-cover mb-4'
+                      className='w-full h-[100px] lg:h-[204px] object-cover mb-4'
                     />
                   </div>
                   <div>

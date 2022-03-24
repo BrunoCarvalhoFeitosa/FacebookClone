@@ -149,7 +149,7 @@ const ShareFeed = ({
             <div className='flex flex-col flex-grow'>
               <button
                 type='button'
-                className='w-full py-3 bg-gray-200 rounded-full outline-none text-gray-600 text-sm text-center md:pl-5 md:pr-3 md:text-lg'
+                className='w-full py-3 px-3 bg-gray-200 rounded-full outline-none text-gray-600 text-[13px] text-center md:text-left md:pl-5 md:pr-3 md:text-lg'
                 onClick={handleOpenShareFeed}
               >
                 {`No que você está pensando hoje, ${userAuthenticatedInfo && userAuthenticatedInfo[0]?.name}?`}
